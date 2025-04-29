@@ -1,38 +1,34 @@
-# dbms
-[List the details about “smith”.pdf](https://github.com/user-attachments/files/19965149/List.the.details.about.smith.pdf)
+[Consulting.department.ordered.txt](https://github.com/user-attachments/files/19967304/Consulting.department.ordered.txt)
 
 
-['Consulting' department ordered.pdf](https://github.com/user-attachments/files/19965163/Consulting.department.ordered.pdf)
+[1.Count.employees.company.wise.s9.txt](https://github.com/user-attachments/files/19967303/1.Count.employees.company.wise.s9.txt)
 
 
-[1) Count employees company wise s9.pdf](https://github.com/user-attachments/files/19965162/1.Count.employees.company.wise.s9.pdf)
+[Find.the.names.street.address.and.cities.s10.txt](https://github.com/user-attachments/files/19967302/Find.the.names.street.address.and.cities.s10.txt)
 
 
-[Find the names, street address, and cities s10.pdf](https://github.com/user-attachments/files/19965161/Find.the.names.street.address.and.cities.s10.pdf)
+[Create.a.view.for.all.column.of.Employee.table.txt](https://github.com/user-attachments/files/19967301/Create.a.view.for.all.column.of.Employee.table.txt)
 
 
-[Create a view for all column of Employee table.pdf](https://github.com/user-attachments/files/19965160/Create.a.view.for.all.column.of.Employee.table.pdf)
+[Show.the.Regd.No.of.Pradeep.txt](https://github.com/user-attachments/files/19967300/Show.the.Regd.No.of.Pradeep.txt)
 
 
-[Create a table Animal (id, name) with s12.pdf](https://github.com/user-attachments/files/19965159/Create.a.table.Animal.id.name.with.s12.pdf)
+[Delete.record.of.Ram.txt](https://github.com/user-attachments/files/19967299/Delete.record.of.Ram.txt)
 
 
-[SEIT_DBMS_PR_question_bank[1].pdf](https://github.com/user-attachments/files/19965158/SEIT_DBMS_PR_question_bank.1.pdf)
+[have.an.order.with.Sony.txt](https://github.com/user-attachments/files/19967298/have.an.order.with.Sony.txt)
 
 
-[Show the Regd. No of Pradeep.pdf](https://github.com/user-attachments/files/19965157/Show.the.Regd.No.of.Pradeep.pdf)
+[returns.the.project.number.txt](https://github.com/user-attachments/files/19967297/returns.the.project.number.txt)
 
 
-[Delete record of Ram.pdf](https://github.com/user-attachments/files/19965156/Delete.record.of.Ram.pdf)
+[Find.the.distinct.pnames.of.all.parts.txt](https://github.com/user-attachments/files/19967295/Find.the.distinct.pnames.of.all.parts.txt)
 
 
-[Find the name of all salespeople that.pdf](https://github.com/user-attachments/files/19965155/Find.the.name.of.all.salespeople.that.pdf)
+[Find.the.name.of.all.salespeople.that.txt](https://github.com/user-attachments/files/19967294/Find.the.name.of.all.salespeople.that.txt)
 
 
-[have an order with 'Sony'.pdf](https://github.com/user-attachments/files/19965154/have.an.order.with.Sony.pdf)
+[Create.a.table.Animal.id.name.with.s12.txt](https://github.com/user-attachments/files/19967293/Create.a.table.Animal.id.name.with.s12.txt)
 
 
-[Find the distinct pnames of all parts.pdf](https://github.com/user-attachments/files/19965153/Find.the.distinct.pnames.of.all.parts.pdf)
-
-
-[returns the project number.pdf](https://github.com/user-attachments/files/19965152/returns.the.project.number.pdf)
+[List.the.details.about.smith.txt](https://github.com/user-attachments/files/19967292/List.the.details.about.smith.txt)
