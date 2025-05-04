@@ -1,6 +1,8 @@
 this is C files
 
-[assi 1 b.txt](https://github.com/user-attachments/files/20029560/assi.1.b.txt)[assi 7A Koch Curve.txt](https://github.com/user-attachments/files/20029242/assi.7A.Koch.Curve.txt)
+[assi 1 b.txt](https://github.com/user-attachments/files/20029560/assi.1.b.txt)
+
+[assi 7A Koch Curve.txt](https://github.com/user-attachments/files/20029242/assi.7A.Koch.Curve.txt)
 
 
 [assi 5  Polygon.txt](https://github.com/user-attachments/files/20029249/assi.5.Polygon.txt)
