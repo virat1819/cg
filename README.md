@@ -1,3 +1,5 @@
+this is C files
+
 [assi 1 b.txt](https://github.com/user-attachments/files/20029560/assi.1.b.txt)[assi 7A Koch Curve.txt](https://github.com/user-attachments/files/20029242/assi.7A.Koch.Curve.txt)
 
 
@@ -19,6 +21,9 @@
 
 To Run this Files :-
 gcc -o polygon_clipping polygon_clipping.c -lGL -lGLU -lglut
+
+This is C++ files  
+
 
 [hut shape.txt](https://github.com/user-attachments/files/20029581/hut.shape.txt)
 
