@@ -23,3 +23,10 @@
 
 
 [assi 4  Polygon Fill.txt](https://github.com/user-attachments/files/20028492/assi.4.Polygon.Fill.txt)
+
+Compilation Command:
+
+g++ your_file.cpp -lGL -lGLU -lglut -o transformation
+
+ You can run the program using 
+ ./transformation.
