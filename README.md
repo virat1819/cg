@@ -1,34 +1,25 @@
-[Consulting.department.ordered.txt](https://github.com/user-attachments/files/19967304/Consulting.department.ordered.txt)
+[triangle.txt](https://github.com/user-attachments/files/20028500/triangle.txt)
 
 
-[1.Count.employees.company.wise.s9.txt](https://github.com/user-attachments/files/19967303/1.Count.employees.company.wise.s9.txt)
+[assi3   Bresenham Circle drawing algorithms.txt](https://github.com/user-attachments/files/20028499/assi3.Bresenham.Circle.drawing.algorithms.txt)
 
 
-[Find.the.names.street.address.and.cities.s10.txt](https://github.com/user-attachments/files/19967302/Find.the.names.street.address.and.cities.s10.txt)
+[assi2 DDA & Bresenham line drawing.txt](https://github.com/user-attachments/files/20028498/assi2.DDA.Bresenham.line.drawing.txt)
 
 
-[Create.a.view.for.all.column.of.Employee.table.txt](https://github.com/user-attachments/files/19967301/Create.a.view.for.all.column.of.Employee.table.txt)
+[assi1b Hut_Shape.txt](https://github.com/user-attachments/files/20028497/assi1b.Hut_Shape.txt)
 
 
-[Show.the.Regd.No.of.Pradeep.txt](https://github.com/user-attachments/files/19967300/Show.the.Regd.No.of.Pradeep.txt)
+[assi 7B Bezier Curve.txt](https://github.com/user-attachments/files/20028496/assi.7B.Bezier.Curve.txt)
 
 
-[Delete.record.of.Ram.txt](https://github.com/user-attachments/files/19967299/Delete.record.of.Ram.txt)
+[assi 7A Koch Curve.txt](https://github.com/user-attachments/files/20028495/assi.7A.Koch.Curve.txt)
 
 
-[have.an.order.with.Sony.txt](https://github.com/user-attachments/files/19967298/have.an.order.with.Sony.txt)
+[assi 6 2D transformation.txt](https://github.com/user-attachments/files/20028494/assi.6.2D.transformation.txt)
 
 
-[returns.the.project.number.txt](https://github.com/user-attachments/files/19967297/returns.the.project.number.txt)
+[assi 5  Polygon.txt](https://github.com/user-attachments/files/20028493/assi.5.Polygon.txt)
 
 
-[Find.the.distinct.pnames.of.all.parts.txt](https://github.com/user-attachments/files/19967295/Find.the.distinct.pnames.of.all.parts.txt)
-
-
-[Find.the.name.of.all.salespeople.that.txt](https://github.com/user-attachments/files/19967294/Find.the.name.of.all.salespeople.that.txt)
-
-
-[Create.a.table.Animal.id.name.with.s12.txt](https://github.com/user-attachments/files/19967293/Create.a.table.Animal.id.name.with.s12.txt)
-
-
-[List.the.details.about.smith.txt](https://github.com/user-attachments/files/19967292/List.the.details.about.smith.txt)
+[assi 4  Polygon Fill.txt](https://github.com/user-attachments/files/20028492/assi.4.Polygon.Fill.txt)
